@@ -66,4 +66,4 @@ See https://yazi-rs.github.io/docs/image-preview for details.
 
 ## License
 
-Yazi is MIT-licensed. For more information check the [LICENSE](LICENSE) file.
+Yazi is MIT-licensed. For more information check the [LICENSE](LICENSE) file
